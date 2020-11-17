@@ -7,8 +7,11 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(here)
 ```
 
 
 Hey hey heyyyyy doing some cool coding stuff
 
+
+Hiya this is fun wooo coding :) 
