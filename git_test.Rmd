@@ -1,0 +1,14 @@
+---
+title: "Week 7 Collab"
+author: "Meghan Fletcher"
+date: "11/17/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Hey hey heyyyyy doing some cool coding stuff
+
